@@ -34,4 +34,5 @@ DLAB | Divisor Latch Access Bit | 分频因子锁存访问位
 
 ## NS16550A原理与设置
 NS16550A的功能框图如下所示。
+
 <img src="images/ns16550-blocks.jpg" width="500px">
