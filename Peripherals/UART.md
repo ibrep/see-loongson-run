@@ -171,7 +171,7 @@ divisor = (frequency input) / (baud rate * 16)
 
 然后重新设定分频系数：
 
-```
+```assembly
 LEAF(initserial_later)
     li  a0, COM1_BASE_ADDR
     li  t1, DLAB
